@@ -1,9 +1,11 @@
 # NewsMonkey Website
+
+## Preview
 ![Screenshot](https://i.ibb.co/BN0s6NK/Screenshot-85.png)
 
 Welcome to the **NewsMonkey website**! This is a React.js-based news website that provides you with the latest news from around the world. Stay informed and up-to-date with the NewsMonkey.
 
-## PREVIEW
+## Video link click above the photo
 [![Project Demo Video](http://img.youtube.com/vi/iWch2OYLleQ/0.jpg)](http://www.youtube.com/watch?v=iWch2OYLleQ)
 ## Table of Contents
 
