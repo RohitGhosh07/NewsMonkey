@@ -1,5 +1,6 @@
 # NewsMonkey Website
 
+![Screenshot](https://i.ibb.co/V3jnPDv/news-monkey.png)
 ## Preview
 ![Screenshot](https://i.ibb.co/BN0s6NK/Screenshot-85.png)
 
